@@ -1,4 +1,4 @@
-% Most general code 
+% Most general code  for Fig3a
 clear;
 tic %tic (at the start) and toc (at the end) finds the runtime 
 global lambda np u  
