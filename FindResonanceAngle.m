@@ -1,3 +1,4 @@
+% Find explanation in ElectricFieldIntensityVsDistanceFromPrism.m code.
 % Most general code to find resonance angle
 clear;
 tic % "tic...toc" tells runtime

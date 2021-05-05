@@ -1,3 +1,4 @@
+% Find explanation in ElectricFieldIntensityVsDistanceFromPrism.m code.
 clear;
 tic %tic (at the start) and toc (at the end) finds the runtime 
 lambda=633e-9;%wavelength of incident light in vacuum at which nm is as follows
