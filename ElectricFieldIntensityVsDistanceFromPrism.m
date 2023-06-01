@@ -21,9 +21,9 @@
 % Since, for each layer, Cmatrix=inverse(last 2D shell of Pmatrix), and all Z rows become constant at the z analyte starts, 
 % TCmatrix=inverse(last shell of product of all Pmatrices except that of the analyte).
 % 
-% By Sameer Baheti under Dr. Akhilesh Kumar Mishra, IITR
-% sbaheti@ph.iitr.ac.in
-% dated
+% Author: Sameer Baheti under the guidance of Dr. Akhilesh Kumar Mishra, Department of Physics, IIT Roorkee, India
+% Author's contact: sbaheti@ph.iitr.ac.in, sameerbaheti84@gmail.com
+% dated July-2019
 clear; % removes all variables from the workspace
 tic % "tic...toc" tells runtime
 global np lambda u % so that their values can be used in the functions too 
